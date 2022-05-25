@@ -1,0 +1,8 @@
+.category__wrapper {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    .category__item{
+        width: 30%;
+    }
+}

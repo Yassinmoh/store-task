@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;EAC7B,SAAS,EAAE,IAAI;CAIlB;;AAPD,AAII,kBAJc,CAId,eAAe,CAAA;EACX,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "categories.scss"
+    ],
+    "names": [],
+    "file": "categories.css"
+}

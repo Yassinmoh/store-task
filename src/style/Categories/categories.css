@@ -1,0 +1,14 @@
+.category__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.category__wrapper .category__item {
+  width: 30%;
+}
+/*# sourceMappingURL=categories.css.map */
